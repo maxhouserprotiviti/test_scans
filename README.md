@@ -1,2 +1,2 @@
 # test_scans
-Using DVWA as a test for scans
+Using https://github.com/sepandhaghighi/samila as a test repo for the scan
